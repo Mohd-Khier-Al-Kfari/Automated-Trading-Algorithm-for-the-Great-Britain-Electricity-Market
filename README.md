@@ -33,3 +33,5 @@ positive).
 5) Additional sources for:
   - Physical vs. non-physical electricity trading https://youtu.be/iUeGv-pW5os
   - Day-ahead and intraday electricity trading	https://youtu.be/h2MJo-iw7NA
+
+6) The data utilized in this experiment cannot be published, as it is restricted by privacy rules and regulations in accordance with data protection laws.
