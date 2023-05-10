@@ -1,3 +1,5 @@
+# Automated Trading Algorithm for the Great Britain Electricity Market
+
 Develop and backtest a trading strategy maximizing profits between two auctions of the Great Britain day-ahead electricity market.
 
 # Theoretical background:
